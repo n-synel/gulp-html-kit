@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "main": "gulfile.js",
+  "scripts": {},
+  "author": "n-synel",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
