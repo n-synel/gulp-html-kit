@@ -7,3 +7,6 @@ build
 # Files
 *.log
 *-lock.json
+
+# UNIX
+.DS_Store
