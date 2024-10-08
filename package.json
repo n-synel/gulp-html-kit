@@ -1,10 +1,12 @@
 {
-  "private": true,
-  "main": "gulfile.js",
-  "scripts": {},
-  "author": "n-synel",
-  "license": "ISC",
-  "devDependencies": {
-    "gulp": "^5.0.0"
-  }
+  "name": "gulp-html-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
