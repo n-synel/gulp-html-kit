@@ -1,7 +1,6 @@
 {
   "name": "gulp-html-kit",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "n-syne",
